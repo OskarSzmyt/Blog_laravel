@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Demo - Zadanie 7 - WWW i jezyki skryptowe</title>
+    <title>Moje forum</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
     <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate" />
@@ -12,8 +12,8 @@
 </head>
 <body>
 <header>
-    <h1>Demo - Zadanie 7</h1>
-    <h2>Forum - dynamiczne modyfikacje strony, JavaScript, jQuery i AJAX</h2>
+    <h1>Moje forum</h1>
+    <h2>Forum</h2>
 </header>
 <nav class="menu"><a href="{{ url('/') }}">Forum</a></nav>
 
